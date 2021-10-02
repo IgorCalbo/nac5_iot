@@ -2,9 +2,9 @@
 
 **nome dos alunos:** Igor Ferreira Calbo RM:81274 / Natam Alves da Mata RM:85955
 
-**Turma:**2TDSG
+Turma:2TDSG
 
-**Ano:**2021
+Ano:2021
 
 ## Objetivo / descrição do Projeto
 
